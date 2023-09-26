@@ -76,21 +76,24 @@
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo" />
   <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-          
             
 </div>
 
-###
+
+<h2 align="left">My Github Stats </h2>
+
+
 [![Kalyanam Pranay's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranayKalyanam&hide=stars&count_private=true&show_icons=true&theme=transparent)](https://github.com/PranayKalyanam/github-readme-stats)
 
-### Languages I'm writing:
+### 
+<h2 align="left" >Languages I'm writing </h2>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sruthikkoneti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 
 
 ###
-
+<h2 align="left" >My Favourite Song </h2>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315dcom5bsocesplfwdclhgtzn3i&cover_image=true&theme=default&show_offline=false&background_color=545454&interchange=false&bar_color=464946)](https://github.com/kittinan/spotify-github-profile)
 
