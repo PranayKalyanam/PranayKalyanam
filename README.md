@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left"> I'm <a href="https://github.com/PranayKalyanam">Kalyanam Pranay</a> </h3>
+<h2 align="left"> I'm <a href="https://github.com/PranayKalyanam">Kalyanam Pranay</a> </h2>
 
 ###
 
