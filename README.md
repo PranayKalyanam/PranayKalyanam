@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I'm Kalyanam Pranay</h3>
+<h3 align="left"> I'm <a href="https://github.com/PranayKalyanam">Kalyanam Pranay</a> </h3>
 
 ###
 
@@ -51,8 +51,8 @@
   <img width="12" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
   <img width="12" /> -->
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
@@ -61,8 +61,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github logo"  />
@@ -73,22 +73,90 @@
   <img width="12" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="material-ui logo"  />
   <img width="12" /> -->
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo" />
-  <img width="12" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-            
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" height="36" alt="tailwind logo" />
+ 
 </div>
+<hr>
 
 
 <h2 align="left">My Github Stats </h2>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=PranayKalyanam&show_icons=true&line_height=21&theme=transparent" alt="my github stats" width="480"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranayKalyanam&layout=compact&theme=transparent" alt="languages" height="165">
+</p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PranayKalyanam&layout=compact&theme=transparent" alt="sxmeer-ahmed" />
+</p>
+<hr>
 
 
-[![Kalyanam Pranay's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranayKalyanam&hide=stars&count_private=true&show_icons=true&theme=transparent)](https://github.com/PranayKalyanam/github-readme-stats)
+<!--
+[![Kalyanam Pranay's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranayKalyanam&hide=stars&count_private=true&show_icons=true&theme=transparent)](https://github.com/PranayKalyanam/github-readme-stats) -->
 
 ### 
+<!--
 <h2 align="left" >Languages I'm writing </h2>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PranayKalyanam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PranayKalyanam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
+  <h2 align="center">I code with</h2>
+<table>
+  <tbody>
+    <tr>
+      <td width="25%" align="center">
+        <span>C++</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Python</span><br><br><br>
+        <img height="64px" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
+      </td>
+      <td width="25%" align="center">
+        <span>Git</span><br><br><br>
+        <img height="64px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">
+      </td>
+      <td width="25%" align="center">
+        <span>HTML5</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>TailwindCSS</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg">
+      </td>
+       <td width="25%" align="center">
+        <span>FireBase</span><br><br><br>
+        <img height="64px" src="https://img.icons8.com/color/452/firebase.png">
+      </td>
+       <td width="25%" align="center">
+        <span>MongoDb</span><br><br><br>
+        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png">
+      </td>
+    </tr>
+    <tr>
+      <td width="25%" align="center">
+        <span>VSCode</span><br><br><br>
+        <img height="64px" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif">
+      </td>
+      <td width="25%" align="center">
+        <span>JavaScript</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Reactjs</span><br><br><br>
+        <img height="64px" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/source.gif">
+      </td>
+<!--        <td width="25%" align="center">
+        <span>Flutter</span><br><br><br>
+        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png">
+      </td> -->
+      <td width="25%" align="center">
+        <span>NodeJs</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg">
+      </td>
+      
+  </tbody>
+</table>
 
 
 
@@ -99,3 +167,12 @@
 
 
 ###
+<h2 align="left" > Support me here </h2>
+<p align="center"> 
+   Visitor Count
+ <br/>
+  <img src="https://profile-counter.glitch.me/PranayKalyanam/count.svg" />
+</p>
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
