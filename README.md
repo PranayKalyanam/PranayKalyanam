@@ -121,16 +121,12 @@
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
       </td>
       <td width="25%" align="center">
+        <span>CSS</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
+      </td>
+      <td width="25%" align="center">
         <span>TailwindCSS</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg">
-      </td>
-       <td width="25%" align="center">
-        <span>FireBase</span><br><br><br>
-        <img height="64px" src="https://img.icons8.com/color/452/firebase.png">
-      </td>
-       <td width="25%" align="center">
-        <span>MongoDb</span><br><br><br>
-        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png">
       </td>
     </tr>
     <tr>
@@ -153,6 +149,14 @@
       <td width="25%" align="center">
         <span>NodeJs</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>FireBase</span><br><br><br>
+        <img height="64px" src="https://img.icons8.com/color/452/firebase.png">
+      </td>
+       <td width="25%" align="center">
+        <span>MongoDb</span><br><br><br>
+        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png">
       </td>
       
   </tbody>
