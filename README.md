@@ -167,7 +167,7 @@
 ###
 <h2 align="left" >My Favourite Song </h2>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315dcom5bsocesplfwdclhgtzn3i&cover_image=true&theme=default&show_offline=false&background_color=545454&interchange=false&bar_color=464946)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315dcom5bsocesplfwdclhgtzn3i&cover_image=true&theme=default&show_offline=false&background_color=545454&interchange=false&bar_color=464946)](https://open.spotify.com/)
 
 
 ###
